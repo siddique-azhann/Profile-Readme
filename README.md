@@ -1,12 +1,13 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000FF=&size=60&center=true&vCenter=true&width=550&height=70&lines=Hello+Visitor();I+am+Mohd+Azhan.;I'm+a+Software+Developer,;Subject+Matter+Expert,;Script+Kiddie,;Writer,+Freelancer,;and+Learner,+always:-)">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&width=435&lines=Hello+Visitor();I+am+Mohd+Azhan.;I+am+a+Developer%2C;Writer%2C;Freelancer%2C;and+a+Learner%2C+always+%3A-)" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
  <a href="https://https://azhan.me"><img src="https://img.shields.io/badge/Portfolio-7E7C73?style=for-the-badge&logo=portfolio&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/siddique-azhann/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/siddique-azhann/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-  <a href="https://twitter.com/siddique_azhann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/siddique_azhann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></p>
 
 
 ## Languages, Technologies And Tools
@@ -32,7 +33,7 @@
 
 ## Activity Graph
 
-<p>
+<p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=siddique-azhann&bg_color=ffffff&color=000000&line=00a36c&point=006602&area=true&hide_border=true"></a>
 </p>
 
