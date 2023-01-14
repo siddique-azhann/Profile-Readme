@@ -1,12 +1,13 @@
 
 <div align="center" align-content="center" display="flex">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=300&color=000000&width=435&lines=Hello+Visitor();I+am+Mohd+Azhan.;I+am+a+Developer,;Writer,+Freelancer,;and+a+Learner,+always+-)" alt="Typing SVG"/></a>
-</div>
 
-<p align="center">
-  <a href="https://azhan.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7E7C73?style=for-the-badge&logo=Portfolio&logoColor=white"></a>
+  <a href="https://azhan.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-23F05033?style=for-the-badge&logo=Portfolio&logoColor=white"></a>
   <a href="https://linkedin.com/in/siddique-azhann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/siddique-azhann/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
+    <a href="https://www.credly.com/users/siddique-azhann/badges" target="_blank"><img src="https://img.shields.io/badge/Credly-23593d88?style=for-the-badge&logo=Credly&logoColor=white"></a>
+</div>
+
 
 ## Languages, Technologies And Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
