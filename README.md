@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000FF=&size=60&center=true&vCenter=true&width=550&height=70&lines=Hello+Visitor();I+am+Mohd+Azhan.;I+am+a+Software+Developer,;Subject+Matter+Expert,;Script+Kiddie,;Writer,+Freelancer,;and+Learner,+always:-)">
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000FF=&size=60&center=true&vCenter=true&width=550&height=70&lines=Hello+Visitor();I+am+Mohd+Azhan.;I'm+a+Software+Developer,;Subject+Matter+Expert,;Script+Kiddie,;Writer,+Freelancer,;and+Learner,+always:-)">
 </p>
-
-
 
 <p align="center">
  <a href="https://https://azhan.me"><img src="https://img.shields.io/badge/Portfolio-7E7C73?style=for-the-badge&logo=portfolio&logoColor=white"></a>
