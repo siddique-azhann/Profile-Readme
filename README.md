@@ -1,5 +1,4 @@
-
-<div align="center" align-content="center" display="flex">
+<div align="center" align-content="center" align-text="center" display="flex">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=300&color=000000&width=435&lines=Hello+Visitor();I+am+Mohd+Azhan.;I+am+a+Developer,;Writer,+Freelancer,;and+a+Learner,+always+-)" alt="Typing SVG"/></a>
 
   <a href="https://azhan.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-23F05033?style=for-the-badge&logo=Portfolio&logoColor=white"></a>
