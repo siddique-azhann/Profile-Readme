@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://github.com/siddique-azhann?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/siddique-azhann?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="Stargazers" title="Stargazers" src="https://custom-icon-badges.demolab.com/github/stars/siddique-azhann?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/siddique-azhann?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/siddique-azhann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="Followers" title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/siddique-azhann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/siddique-azhann/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=siddiqe-azhann&style=for-the-badge&color=grey"/></a>
+    <img alt="views" title="Visitors" src="https://komarev.com/ghpvc/?username=siddiqe-azhann&style=for-the-badge&color=grey"/></a>
 </p>
 
 ## Languages, Technologies And Tools
