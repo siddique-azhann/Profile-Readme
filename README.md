@@ -24,14 +24,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Statistics
-<p align="left">
+<div align="left">
 <a href="https://github.com/siddique-azhann/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=siddique-azhann&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
 <a href="https://git.io/streak-stats"><img align="right" height="300px" width="400px" src="https://streak-stats.demolab.com?user=siddique-azhann&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D"></a>
-</p>
+</div>
+<div align="center">
+<a href="https://github.com/siddique-azhann/github-readme-stats"><img alt="Mohd Azhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=siddique-azhann&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+</div>
 
 ## Activity Graph
 
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=siddique-azhann&bg_color=ffffff&color=000000&line=00a36c&point=006602&area=true&hide_border=true"></a>
 </p>
-
