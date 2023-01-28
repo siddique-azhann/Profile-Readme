@@ -8,6 +8,14 @@
 <a href="https://www.credly.com/users/siddique-azhann/badges" target="_blank"><img src="https://img.shields.io/badge/Credly-23593d88?style=for-the-badge&logo=Credly&logoColor=white"></a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/siddique-azhann?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/siddique-azhann?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/siddique-azhann?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/siddique-azhann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/siddique-azhann/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=siddiqe-azhann&style=for-the-badge&color=grey"/></a>
+</p>
 
 ## Languages, Technologies And Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
